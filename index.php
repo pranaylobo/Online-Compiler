@@ -84,8 +84,8 @@
 <option value="cpp">C++</option>
 <option value="cpp11">C++11</option>
 <option value="java">Java</option>
-<!--<option value="python2.7">Python2</option>
-<option value="python3.2">Python2</option>-->
+<option value="python2.7">Python2.7</option>
+<option value="python3.2">Python3.2</option>
   
 
 </select><br><br>
